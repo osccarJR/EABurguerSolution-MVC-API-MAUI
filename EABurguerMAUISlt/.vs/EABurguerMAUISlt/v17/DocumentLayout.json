@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\Models\\EABurger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\EABurger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\EABurguerMAUISlt.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EABurguerMAUISlt.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\EABurguerMAUISlt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EABurguerMAUISlt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EABurger.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\Models\\EABurger.cs",
+              "RelativeDocumentMoniker": "Models\\EABurger.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\Models\\EABurger.cs",
+              "RelativeToolTip": "Models\\EABurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:31:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EABurguerMAUISlt.csproj",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\EABurguerMAUISlt.csproj",
+              "RelativeDocumentMoniker": "EABurguerMAUISlt.csproj",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\EABurguerMAUISlt.csproj",
+              "RelativeToolTip": "EABurguerMAUISlt.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T05:29:52.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EABurguerMAUISlt.csproj.user",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\EABurguerMAUISlt.csproj.user",
+              "RelativeDocumentMoniker": "EABurguerMAUISlt.csproj.user",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\TallerProgramacion\\EABurguerMAUISlt\\EABurguerMAUISlt.csproj.user",
+              "RelativeToolTip": "EABurguerMAUISlt.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-03T05:29:42.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EABurguerMAUISlt
+build_property.ProjectDir = C:\Users\oscar\Desktop\TallerProgramacion\EABurguerMAUISlt\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/oscar/Desktop/TallerProgramacion/EABurguerMAUISlt/EAAboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EABurguerMAUISlt.EAAboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = EAAboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = EAAboutPage.xaml
+
+[C:/Users/oscar/Desktop/TallerProgramacion/EABurguerMAUISlt/EAApp.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EABurguerMAUISlt.EAApp.xaml
+build_metadata.AdditionalFiles.TargetPath = EAApp.xaml
+build_metadata.AdditionalFiles.RelativePath = EAApp.xaml
+
+[C:/Users/oscar/Desktop/TallerProgramacion/EABurguerMAUISlt/EAAppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EABurguerMAUISlt.EAAppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = EAAppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = EAAppShell.xaml
+
+[C:/Users/oscar/Desktop/TallerProgramacion/EABurguerMAUISlt/EAMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EABurguerMAUISlt.EAMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = EAMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = EAMainPage.xaml
+
+[C:/Users/oscar/Desktop/TallerProgramacion/EABurguerMAUISlt/Resources/Styles/EAColors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EABurguerMAUISlt.Resources.Styles.EAColors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\EAColors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\EAColors.xaml
+
+[C:/Users/oscar/Desktop/TallerProgramacion/EABurguerMAUISlt/Resources/Styles/EAStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = EABurguerMAUISlt.Resources.Styles.EAStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\EAStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\EAStyles.xaml

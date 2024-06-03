@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="{StaticResource BackgroundColor}"
+             x:Class="EABurguerMAUISlt.EAMainPage">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Spacing="20">
+        <Image Source="https://imgur.com/AoJyG1f.png" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="200" HeightRequest="200" />
+        <Label Text="Desarrollado por Emilio Albornoz"
+           HorizontalOptions="Center"
+           VerticalOptions="Center"
+           TextColor="{StaticResource TextColor}"
+           FontAttributes="Bold"
+           FontSize="20" />
+        <Button Text="¡Leer hamburguesas!"
+            Clicked="Button_Clicked"
+            HorizontalOptions="Center" />
+        <ListView x:Name="listView"
+                  VerticalOptions="FillAndExpand"
+                  BackgroundColor="White">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
